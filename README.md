@@ -48,7 +48,7 @@
 ### 
 
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 I'm currently learning... 
 
 - GraphQL / AWS / Docker / Redux / TypeScript
 - Advance React JS
