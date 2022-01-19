@@ -1,25 +1,66 @@
- { “name” : “Gary Arellano Nava”,
-   “role” : “Frontend Dev | React Js”,
-   “data” : 
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
+
+```shell
+ { “name” : “Gary Arellano Nava”,
+   “role” : “Frontend Dev | React Js”,
+   “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/garymarena/", 
-      "Resume"   : "https://github.com/Garymarena"
+      "Resume"   : "https://github.com/Garymarena"
      }
  }
+```
 
-Principal Stack
+<h3>
+  🚀 Principal Stack
+</h3> 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+  
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+<h4>Frontend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+<!-- <h4>Backend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p> -->
+<h4>Tools & Technologies</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
-https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642
 
-Progrmaing Lenguages
-https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+### 
 
-- 👋 Hi, I’m @GaryAdvancio "Gary Arellano"
-- 👀 I’m interested in Web Development, Video Games, Cryptos, Movies, Travel...
-- 🌱 I’m currently learning React js Redux TypeScript.
-- 📫 How to reach me garya@advancio.com
 
-<!---
-GaryAdvancio/GaryAdvancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 I'm currently learning... / Last Projects
+
+- GraphQL / AWS / Docker / Redux / TypeScript
+- Advance React JS
+- MEAN Stack Course (With official certificate in MongoDB)
+
+
+### Github Stats:
+
+<!-- <table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table> -->
+
+
