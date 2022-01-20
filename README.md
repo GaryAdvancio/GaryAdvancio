@@ -6,8 +6,7 @@
    “data” : 
      { 		 
       "Linkedin" : "https://www.linkedin.com/in/garymarena/", 
-      "Resume"   : "https://github.com/Garymarena",
-	"Mail" : "garya@advancio.com"
+      "Resume"   : "https://github.com/Garymarena"
      }
  }
 ```
