@@ -53,7 +53,7 @@
 
 - GraphQL / AWS / Docker / Redux / TypeScript
 - Advance React JS
-- MEAN Stack Course (With official certificate in MongoDB)
+- Front End Development Libraies (freeCodeCamp)
 
 
 <!-- ### Github Stats: -->
